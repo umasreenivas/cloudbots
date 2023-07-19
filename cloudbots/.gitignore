@@ -2,4 +2,4 @@
 *.py
 *.net
 
-!important .py
+!important.py
