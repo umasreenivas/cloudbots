@@ -3,3 +3,5 @@
 *.net
 
 !important.py
+
+[[aeiou]*.txt]
